@@ -1,5 +1,7 @@
 [Back](../README.md)
 ## Binary Search
+### Implementations
+* [binary search]()
 ### Videos
 * [Binary Search tutorial (C++ and Python)](https://www.youtube.com/watch?v=GU7DpgHINWQ)
 * [Binary Search Algorithm - Computerphile](https://www.youtube.com/watch?v=hDn8iOc30Tk)
@@ -13,8 +15,9 @@
 * [[Python] Powerful Ultimate Binary Search Template. Solved many problems](https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
 
 ### Exercises
-* [LeetCode Binary Search Problem List](https://leetcode.com/problem-list/binary-search/)
+* [LeetCode Binary Search Problems](https://leetcode.com/problem-list/binary-search/)
 * [CP Algorithms Practice Problems](https://cp-algorithms.com/num_methods/binary_search.html)
 * [USACO Guide on Binary Search](https://usaco.guide/silver/binary-search?lang=cpp)
 * [HackerEarth Binary Search Problems](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/)
 * [CodeChef Binary Search](https://www.codechef.com/practice/binary-search)
+* [Codeforces Binary Search Problems](https://codeforces.com/problemset?tags=binary%20search)
