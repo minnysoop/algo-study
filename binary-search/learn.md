@@ -1,7 +1,5 @@
 [Back](../README.md)
 ## Binary Search
-### Implementations
-* [binary search]()
 ### Videos
 * [Binary Search tutorial (C++ and Python)](https://www.youtube.com/watch?v=GU7DpgHINWQ)
 * [Binary Search Algorithm - Computerphile](https://www.youtube.com/watch?v=hDn8iOc30Tk)
