@@ -5,7 +5,7 @@ using namespace std;
 void insertionSort(vector<int>&arr);
 
 int main(void){
-    vector<int>arr = {1, 4, 4, 2, 3, 1, 2, 3, 10, 11};
+    vector<int>arr = {1, 4, 4, 2, 0, 3, 1, 2, 3, 10, 11, -4};
     insertionSort(arr);
     int n = arr.size();
     for (int i=0;i<n;i++) cout << arr[i] << " ";
